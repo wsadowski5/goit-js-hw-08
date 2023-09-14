@@ -5,6 +5,8 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
+// komentarz testowy
+
 const gallery = document.querySelector(".gallery");
 
 const markup = galleryItems
